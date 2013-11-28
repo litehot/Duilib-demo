@@ -1,0 +1,3 @@
+﻿  main.cpp
+e:\my documents\visual studio 2013\projects\win32project1\duilib\Control/UIFlash.h(10): warning C4192: 导入类型库“IServiceProvider”时自动排除“..\Utils/Flash11.tlb”
+LINK : fatal error LNK1104: 无法打开文件“..\bin\DuiLib_u.lib”
